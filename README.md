@@ -4,7 +4,7 @@
 - 🔭 Profissional com formação em Análise e Desenvolvimento de Sistemas. Atualmente conclui o
 bootcamp FullStack da Labenu. 
 - 🌱 Atualmente aprendendo Next.Js e Nest. Futuramente pretendo aprender Python.
-- 👯 Estou a procura de novas oportunidades em projetos de Back End quanto de Front End.
+- 👯 Estou a procura de novas oportunidades para atuar como desenvolvedor Full-Stack.
 - 📫 Entre em contato comigo no gmariotin@gmail.com
 - <img src="https://user-images.githubusercontent.com/104600351/205140659-076908c6-ffbc-4897-86a0-7d6f1cca6e62.png" width="20px"/> Conect-se comigo no [Linkedin](https://www.linkedin.com/in/gustavo-mariotin-0438b75a/)
 
